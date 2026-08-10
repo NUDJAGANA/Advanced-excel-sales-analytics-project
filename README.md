@@ -1,54 +1,31 @@
-# Advanced Excel Sales Analytics Project
+Advanced Excel Sales Analytics Dashboard
 
-## Overview
+Project Overview
 
-This project demonstrates data analysis and dashboard creation using Microsoft Excel.
+This project analyses sales performance using Microsoft Excel, transforming raw sales data into an interactive dashboard and business insights.
 
-The workbook contains:
+The analysis focuses on revenue, profitability, customer performance, product categories, and regional sales performance. The project demonstrates the use of Excel for data cleaning, analysis, visualisation, and business reporting.
 
-- Sales Data
-- Customer Data
-- Product Data
-- Interactive Dashboard
-- Business Analysis Tasks
+Business Objectives
 
-## Objectives
+The main objectives of this project were to:
 
-- Analyze sales performance
-- Evaluate profitability
-- Identify top-performing regions
-- Compare product categories
-- Build an executive dashboard
+* Analyse overall sales revenue and profitability.
+* Compare sales performance across different regions.
+* Identify high-performing product categories.
+* Analyse customer sales performance.
+* Evaluate profitability and profit margins.
+* Create an interactive dashboard to communicate key findings clearly.
 
-## Tools Used
+Tools & Techniques
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Lookup Functions
-- Data Cleaning Techniques
-- Dashboard Design
-
-## Key Insights
-
-- Total Revenue: $2.96M
-- Total Profit: $1.13M
-- Profit Margin: 38.19%
-- Highest Revenue Region: West
-- Top Category: Home Appliances
-
-## Files Included
-
-- Advanced_Excel_Data_Analyst_Practice.xlsx
-
-## Skills Demonstrated
-
-- Data Analysis
-- Business Intelligence
-- Dashboard Development
-- Data Visualization
-- KPI Reporting
-
-## Author
-
-Nadjat Djagana
+* Microsoft Excel
+* Data cleaning and preparation
+* Excel formulas and functions
+* Lookup functions
+* PivotTables
+* PivotCharts
+* Interactive filters/slicers
+* KPI calculations
+* Data visualisation
+* Business insight generation
