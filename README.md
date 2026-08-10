@@ -149,6 +149,7 @@ Dashboard Features
 
 The dashboard was designed to provide a high-level view of performance while allowing users to explore specific areas of the dataset.
 
+Dashboard preview<img width="955" height="488" alt="IMG_9530" src="https://github.com/user-attachments/assets/fd3738da-89cc-4d71-827c-690a022795cf" />
 
 
 
